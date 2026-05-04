@@ -1,0 +1,40 @@
+{
+    "programs": [
+
+    ],
+    "stream_groups": [
+
+    ],
+    "streams": [
+        {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 784,
+            "height": 1168,
+            "r_frame_rate": "24/1",
+            "duration": "10.041667"
+        },
+        {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0",
+            "duration": "10.030998"
+        },
+        {
+            "index": 2,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 784,
+            "height": 1168,
+            "r_frame_rate": "90000/1",
+            "duration": "10.041667"
+        }
+    ],
+    "format": {
+        "duration": "10.041667",
+        "size": "4475272",
+        "bit_rate": "3565361"
+    }
+}
